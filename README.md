@@ -7,5 +7,5 @@ To succefully see the output please check our colab version.
 Additional to the generative model we used OpenCV to get the outliner of the givin shape.
 
 # Needed To Run Succefuly 
-Kagel four-shapes dataset : https://www.kaggle.com/smeschke/four-shapes
-OpenCV
+- Kagel four-shapes dataset : https://www.kaggle.com/smeschke/four-shapes
+- OpenCV
